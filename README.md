@@ -1,4 +1,4 @@
-# Multi-Scale Vision Transformer for Medical Image Classification
+# Adaptive Multi-Scale Vision Transformer with Contrastive Pre-Training for Robust Medical Diagnostics 
 
 A state-of-the-art deep learning framework for medical image classification using an innovative multi-scale Vision Transformer architecture with self-supervised pre-training and uncertainty quantification.
 
